@@ -28,7 +28,7 @@ In this project, I developed a Power BI dashboard to analyze IT support service 
 https://github.com/KungaLegjung/Optimizing-IT-Support-Team-Performance-Using-Analytics  
 
 **Live Dashboard:**  
-(Add Power BI Service link)
+ITsupport_InfosysSpringboard.pbix
 
 ---
 
